@@ -5,6 +5,7 @@
     "noImplicitAny": true,
     "target": "es5",
     "jsx": "react",
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true
   }
 }
