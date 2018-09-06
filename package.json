@@ -1,0 +1,25 @@
+{
+  "name": "@common-theory/workit-web",
+  "version": "0.0.1",
+  "description": "The workit web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "common",
+    "theory",
+    "workit",
+    "web",
+    "app"
+  ],
+  "author": "Chance Hudson",
+  "license": "MIT",
+  "devDependencies": {
+    "enzyme": "^3.6.0",
+    "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "react": "^16.5.0"
+  }
+}
